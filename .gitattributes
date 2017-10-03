@@ -1,0 +1,3 @@
+# Force binary mode
+dist/delta_cache_sw.min.js binary
+test/public/delta_cache_sw.min.js binary
