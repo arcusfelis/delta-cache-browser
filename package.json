@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "lorem-ipsum": "latest",
-    "vcdiff-decoder": "^0.2.1"
+    "vcdiff-decoder": "^0.2.1",
+    "xxhashjs": "^0.2.1"
   }
 }
