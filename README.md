@@ -63,3 +63,10 @@ npm test
 This command will open a browser page. Then reload the page. Then, the service worker will install and the Mocha test suite will run. The service worker is automatically removed when the mocha test finishes.
 
 Open chrome://serviceworker-internals/ in Chrome to debug or remove the service worker.
+
+
+### Compilation
+
+```javascript
+gulp client-compile
+```
